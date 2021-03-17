@@ -1,5 +1,5 @@
-# Unfinished_LC3_Compiler
- An unfinished two-pass LC3 compiler.
+# LC3_Compiler
+ A partial two-pass LC3 compiler.
  
  What it currently has:
 	
